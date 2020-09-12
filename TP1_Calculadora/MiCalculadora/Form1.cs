@@ -79,6 +79,10 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void BtnLimpiar_Click(object sender, EventArgs e)
         {
+            Limpiar();
+        }
+        private void Limpiar()
+        {
             txtNumero1.Text = "";
             txtNumero2.Text = "";
             lblResultado.Text = "";
