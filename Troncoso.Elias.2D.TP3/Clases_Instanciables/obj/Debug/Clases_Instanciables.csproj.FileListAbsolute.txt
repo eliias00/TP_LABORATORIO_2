@@ -1,0 +1,13 @@
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\bin\Debug\Clases_Instanciables.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\bin\Debug\Clases_Instanciables.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\bin\Debug\Archivos.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.csprojAssemblyReference.cache
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.csproj.CopyComplete
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Clases_Instanciables\bin\Debug\EntidadesAbstractas.pdb
