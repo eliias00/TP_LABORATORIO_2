@@ -1,0 +1,12 @@
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

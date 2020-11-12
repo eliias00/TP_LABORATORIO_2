@@ -1,0 +1,32 @@
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\obj\Debug\Troncoso.Elias.2D.TP3.csprojAssemblyReference.cache
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\obj\Debug\Troncoso.Elias.2D.TP3.csproj.CoreCompileInputs.cache
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Troncoso.Elias.2D.TP3.exe.config
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Troncoso.Elias.2D.TP3.exe
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Troncoso.Elias.2D.TP3.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Clases_Instanciables.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Excepciones.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Archivos.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Clases_Instanciables.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Archivos.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\obj\Debug\Troncoso.Elias.2D.TP3.csproj.CopyComplete
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\obj\Debug\Troncoso.Elias.2D.TP3.exe
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\obj\Debug\Troncoso.Elias.2D.TP3.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Troncoso.Elias.2D.TP3.exe.config
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Troncoso.Elias.2D.TP3.exe
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Troncoso.Elias.2D.TP3.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Clases_Instanciables.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Excepciones.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Archivos.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Clases_Instanciables.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\bin\Debug\Archivos.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\obj\Debug\Troncoso.Elias.2D.TP3.csprojAssemblyReference.cache
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\obj\Debug\Troncoso.Elias.2D.TP3.csproj.CoreCompileInputs.cache
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\obj\Debug\Troncoso.Elias.2D.TP3.csproj.CopyComplete
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\obj\Debug\Troncoso.Elias.2D.TP3.exe
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP3\Troncoso.Elias.2D.TP3\obj\Debug\Troncoso.Elias.2D.TP3.pdb
