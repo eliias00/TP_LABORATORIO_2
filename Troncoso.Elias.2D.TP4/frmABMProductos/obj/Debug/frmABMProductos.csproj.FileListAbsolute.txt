@@ -1,0 +1,15 @@
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\frmABMProductos.exe.config
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\frmABMProductos.exe
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\frmABMProductos.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.csprojAssemblyReference.cache
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.frmABMProductos.resources
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.Properties.Resources.resources
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.csproj.GenerateResource.cache
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.csproj.CoreCompileInputs.cache
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.exe
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.csproj.CopyComplete
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\Entidades.dll
+C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\Entidades.pdb
