@@ -17,3 +17,22 @@ C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Deb
 C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\Excepciones.dll
 C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\Archivos.pdb
 C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\Excepciones.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\frmABMProductos.exe.config
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\frmABMProductos.exe
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\frmABMProductos.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\Entidades.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\Excepciones.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\Archivos.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\Entidades.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\Excepciones.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\bin\Debug\Archivos.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmAProductos.csprojAssemblyReference.cache
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.frmAProductos.resources
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.Properties.Resources.resources
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmAProductos.csproj.GenerateResource.cache
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmAProductos.csproj.CoreCompileInputs.cache
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmAProductos.csproj.CopyComplete
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.exe
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\frmABMProductos\obj\Debug\frmABMProductos.pdb

@@ -11,3 +11,16 @@ C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\Arc
 C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\Excepciones.dll
 C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\Archivos.pdb
 C:\Users\Elias\OneDrive\Escritorio\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\Archivos.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\Archivos.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Elias\OneDrive\Escritorio\github tp\tp_laboratorio_2\Troncoso.Elias.2D.TP4\Entidades\obj\Debug\Entidades.pdb

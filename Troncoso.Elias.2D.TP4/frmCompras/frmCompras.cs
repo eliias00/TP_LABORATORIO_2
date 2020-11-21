@@ -125,7 +125,7 @@ namespace frmCompras
                                     idProductos[j] = listaElectronicos[j].Id;
                                     unidadesProducto[j] = (int)numeroCelda;
                                     numeroCelda = numeroCelda * listaElectronicos[j].Precio;
-                                    suma = IntExtension.TotalCompra(numeroCelda);
+                                    suma = DoubleExtension.TotalCompra(numeroCelda);
                                     retorno = true;
                                 }
                                 else

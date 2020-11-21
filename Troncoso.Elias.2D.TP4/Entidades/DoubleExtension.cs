@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public static class IntExtension
+    public static class DoubleExtension
     {
         /// <summary>
         /// Acumula el precio a cobrar en la compra (Temas: Metodos de Extension).

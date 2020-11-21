@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Compra.cs" />
-    <Compile Include="IntExtension.cs" />
+    <Compile Include="DoubleExtension.cs" />
     <Compile Include="Local.cs" />
     <Compile Include="SqlConexion.cs" />
     <Compile Include="Querys.cs" />
